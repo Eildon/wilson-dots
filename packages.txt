@@ -8,6 +8,7 @@ i3
 i3blocks
 neofetch
 network-manager
+nmap
 python3-pip
 ranger
 rxvt-unicode-256color
